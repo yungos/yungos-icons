@@ -2,7 +2,7 @@
 
 pkgname=archcraft-icons-win11
 pkgver=1.0
-pkgrel=1
+pkgrel=2
 pkgdesc="Win11 Icon theme for Archcraft"
 url="https://github.com/archcraft-os/archcraft-icons"
 arch=('any')
