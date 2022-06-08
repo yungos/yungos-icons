@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Luna Dark
 Comment=Luna icon theme
-Inherits=Papirus-Apps,Archcraft-Dark,Papirus
+Inherits=Archcraft-Dark
 
 Example=folder
 

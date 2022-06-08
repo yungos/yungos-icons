@@ -2,7 +2,7 @@
 Name=Win11-Dark
 Comment=MacOSX style icon theme for linux.
 
-Inherits=Papirus-Apps,Archcraft-Dark,Papirus
+Inherits=Archcraft-Dark
 Example=folder
 
 # KDE/Plasma Stuff

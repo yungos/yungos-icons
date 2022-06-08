@@ -4,7 +4,7 @@ Comment=Archcraft Dark Icon Theme
 
 DisplayDepth=32
 
-Inherits=Papirus-Apps,Papirus
+Inherits=Papirus-Apps,Papirus-Dark
 Example=folder
 
 FollowsColorScheme=true

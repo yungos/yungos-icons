@@ -2,7 +2,7 @@
 Name=Papirus-Apps
 Comment=Papirus Apps Icon
 
-Inherits=Numix-Apps
+#Inherits=Numix-Apps
 Example=folder
 
 FollowsColorScheme=true

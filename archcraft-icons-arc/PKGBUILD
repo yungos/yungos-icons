@@ -2,7 +2,7 @@
 
 pkgname=archcraft-icons-arc
 pkgver=1.0
-pkgrel=2
+pkgrel=3
 pkgdesc="Arc Icon theme for Archcraft"
 url="https://github.com/archcraft-os/archcraft-icons"
 arch=('any')
