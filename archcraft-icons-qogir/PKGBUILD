@@ -2,7 +2,7 @@
 
 pkgname=archcraft-icons-qogir
 pkgver=1.0
-pkgrel=3
+pkgrel=4
 pkgdesc="Qogir Icon theme for Archcraft"
 url="https://github.com/archcraft-os/archcraft-icons"
 arch=('any')
