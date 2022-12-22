@@ -2,7 +2,7 @@
 
 pkgname=archcraft-icons-luna
 pkgver=1.0
-pkgrel=4
+pkgrel=5
 pkgdesc="Luna Icon theme for Archcraft"
 url="https://github.com/archcraft-os/archcraft-icons"
 arch=('any')
